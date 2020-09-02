@@ -7,6 +7,6 @@
   padding: 50px;
   }
 
-body {
+center {
 text-align: center;
 }
