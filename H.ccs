@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+radius {
+ border: 5px solid green;
+ border-radius: 10px;
+ margin-right: 10px;
+ box-shadow: 4px 4px 8px #dddddd;
+ width: 150px;
+ height: 150px;
+ padding: 10px;
+ display: inline-block;
+}
